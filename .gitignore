@@ -1,0 +1,12 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+# Python
+backend/.venv/
+__pycache__/
+*.py[cod]
+# Local SQLite database (demo data will be created on deploy)
+backend/*.db
+# Environment variables
+.env
+frontend/.env
